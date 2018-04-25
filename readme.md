@@ -102,7 +102,20 @@ Descubrir el Pain Point Principal: Las personas no recuerden exactamente de qué
 
 Soy Javiera tengo 25 años y ocupo mi tarjeta de débito para todo, para pagar en el supermercado, la cuenta del restaurante, cuando salgo de carrete, el veterinario de mi perrita Frida, mis juegos de nintendo; realmente pagó todo con mi tarjeta porque me hace sentir segura y me gusta llevar un control de mis gastos... Pero el otro día revisando mis últimos movimientos, no sabía de qué eran los gastos de hace 5 días atrás, pensaba que el banco me estaba robando y me di cuenta que realmente no sabía en que estaba gastando mi dinero por lo que no llevaba un control de ¡nada!. Hace poco una amiga me recomendó un nuevo banco chileno llamado JAPYbank, es 100% digital y el plus que tiene es que organiza mis gastos por categorías para que yo pueda entender de manera visual los movimientos que realizo con mi tarjeta. Ahora saber en qué y cuándo gasto mi dinero es mucho más entendible. Definitivamente recomendaría JAPPYbank.
 
+# Ideación
+## Propuesta de valor
+Con la posible solución creamos una propuesta de valor de nuestro MVP:
+* Un registro visual exacto de los movimientos de una tarjeta.
+* Categorizar cada uno de los gastos.
+* Categorizar por colores, mejor visualización y clara.
 
+Realizamos nuestros primeros sketchs, en conjunto, luego realizamos nuestros primeros testeo en papel y en base sobre eso íbamos corrigiendo.  
+
+![bocetos-01](https://user-images.githubusercontent.com/32288156/39226004-0e7b51a4-4826-11e8-8abd-4b454bd8cada.png)
+
+# Prototipo y Testeo
+En el prototipo se refleja nuestra conclusión. Cambiamos la visual de cómo entender de mejor manera y fácil los movimientos de las tarjetas. 
+***
 ### Colaborador 
 [Pabla Bazán](https://www.linkedin.com/in/pablabazan/)
 
