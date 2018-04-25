@@ -6,20 +6,32 @@ Japy Bank es un Banco digital Chileno enfocado en los millennials, ofreciendo co
 
 ## Desarrollado para
 
-[Laboratoria](https://marvelapp.com/4h01f53/screen/39117965)
-
-## El reto
+[Banco del País & Laboratoria](https://marvelapp.com/4h01f53/screen/39117965)
+## Proceso de diseño
+![proceso-diseno](https://user-images.githubusercontent.com/32288156/39225381-661b81b2-4822-11e8-85b5-ddcca031eb13.png)
 ***
+## Objetivo
 
-El Banco del País es uno de los bancos más importante de tu país. Es una institución de muchos años y actualmente está pasando por un proceso de transformación digital. Como parte de este proceso, han implementado un área de innovación que quiere llegar de una mejor manera a los usuarios más jóvenes. Por lo que, inspirados en Nequi, Nubank y Simplese han propuesto crear un banco 100% digital dirigido para millenials.
+El Banco del País es uno de los bancos más importante del país. Es una institución de muchos años y actualmente está pasando por un proceso de transformación digital. Como parte de este proceso, han implementado un área de innovación que quiere llegar de una mejor manera a los usuarios más jóvenes. Por lo que, inspirados en **Nequi, Nubank y Simplese** han propuesto crear un banco 100% digital dirigido para millenials.
+![bancos](https://user-images.githubusercontent.com/32288156/39225412-9d32faae-4822-11e8-936d-823f88e0c6f4.png)
 
-### Mi rol
+### Objetivos
+* Identificar quiénes son los stakeholders
+* Planear una reunión de kick - off
+* Generar un Business Model Canvas del nuevo banco digital
+* Llevar a cabo las actividades de investigación
+* Crear un prototipo de la nueva banca digital (crear el flujo de una función de la aplicación)
+* Hacer sesiones de testing
+* Iterar y concluir
 
-El proyecto se realizó en duplas, ambas participamos en el proceso de investigación: guión de entrevista, encuesta online y testing vídeo de la experiencia al momento de buscar información movimientos de una tarjeta. En el proceso de síntesis o definición utilizamos las siguientes herramientas: diagrama de afinidad, customer journey, user persona, wireframe y prototipo.
+## Mi rol dentro del proyecto
 
-### Colaborador 
+El proyecto se realizó en colaboración junto con Pabla Bazán. Ambas participamos en el proceso de diseño. Descubrimiento e investigación: Guión de entrevista, encuesta online y testing vídeo de la experiencia al momento de buscar información movimientos de una tarjeta. Proseguimos en el proceso de Síntesis y definición del proyecto, utilizamos las siguientes herramientas: diagrama de afinidad, customer journey, user persona. Continuamos con el proceso de ideación y prototipado realizamos wireframe y prototipo de alta fidelidad, para finalmente testear el prototipo con usuarios realeas con el fin de iterar y concluir.
 
-[Pabla Bazán](https://www.linkedin.com/in/pablabazan/)
+#Descubrimiento e investigación
+###Research Cualitativo
+![app-01](https://user-images.githubusercontent.com/32288156/39225491-023459e8-4823-11e8-9933-75fda78a7ae9.png)
+
 
 
 ### Descubrimiento e investigación
@@ -120,5 +132,7 @@ En el prototipo se refleja nuestra conclusión. Cambiamos la visual de cómo ent
 
 <img src="imagenes/app-01.png">
 
+### Colaborador 
+[Pabla Bazán](https://www.linkedin.com/in/pablabazan/)
 
  
